@@ -3,5 +3,5 @@ This is a notebook based on https://github.com/luancarvalhomartins/PyAutoFEP, th
 
 To successfully use this workflow, you need define all the envrionment variables carefully, inculde Gromacs path, openbabel path (as well as its version), rdkit etc.
 
-# It is recommend to use this workflow on a local Linux system
-# If you want to use it on Goolge Colab, it might be good to first buy Google Colab Pro with terminal access,  but this is not manditory.
+# It is recommend to use this workflow on a local Linux system, i.e., a local Gromacs
+# If you want to use it on Goolge Colab, i.e, a Coalb version Gromacs, it might be good to first buy Google Colab Pro with terminal access,  but this is not manditory.
